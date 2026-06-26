@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Perfect Trim Lawn Care">
+  <rect width="48" height="48" rx="11" fill="#262522"/>
+  <circle cx="35" cy="14" r="5" fill="#fbc02d"/>
+  <g fill="none" stroke="#fbc02d" stroke-width="3.2" stroke-linecap="round">
+    <path d="M14 38 C 13 30, 15 25, 18 21"/>
+    <path d="M22 38 C 22 28, 24 23, 28 19"/>
+    <path d="M30 38 C 31 30, 34 26, 37 23"/>
+  </g>
+  <rect x="11" y="38" width="26" height="3" rx="1.5" fill="#f6f2e9"/>
+</svg>
