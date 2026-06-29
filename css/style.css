@@ -406,3 +406,13 @@ strong { font-weight: 700; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 .skip-link { position: absolute; left: .5rem; top: -3.5rem; background: var(--sun); color: var(--ink); padding: .6rem 1rem; border-radius: var(--pill); z-index: 100; font-family: var(--ff-display); font-weight: 700; transition: top .2s; }
 .skip-link:focus { top: .5rem; }
+
+/* ===== Real photography (Aurora) ===== */
+.hero__img{background-image:url('https://images.unsplash.com/photo-1628340981113-fe1949fe5cc0?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.tile[data-cat="mowing"]{background-image:url('https://images.unsplash.com/photo-1458245201577-fc8a130b8829?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.tile[data-cat="edging"]{background-image:url('https://images.unsplash.com/photo-1549448046-b89e7214060d?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.tile[data-cat="trimming"]{background-image:url('https://images.unsplash.com/photo-1599151893427-e09096e38d6d?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.tile[data-cat="beds"]{background-image:url('https://images.unsplash.com/photo-1628482283044-e5cc2f238de1?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.tile[data-cat="cleanup"]{background-image:url('https://images.unsplash.com/photo-1601989874863-e67a5a734f56?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.ba__before{background-image:linear-gradient(160deg,rgba(0,0,0,.20),transparent 55%),url('https://images.unsplash.com/photo-1595797623546-5a85a990ca6c?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+.ba__after{background-image:linear-gradient(160deg,rgba(0,0,0,.20),transparent 55%),url('https://images.unsplash.com/photo-1628340981113-fe1949fe5cc0?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
